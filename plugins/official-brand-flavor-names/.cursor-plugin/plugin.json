@@ -1,0 +1,12 @@
+{
+  "name": "official-brand-flavor-names",
+  "displayName": "Официальные бренды и ароматы",
+  "version": "1.0.0",
+  "description": "Правит бренды и вкусы в чаше опросного Excel на имена с банки производителя. Колонки «какие бренды знаете» и «три любимых» не меняет.",
+  "author": {
+    "name": "nikybelov"
+  },
+  "license": "MIT",
+  "keywords": ["hookah", "tobacco", "excel", "brands", "flavors"],
+  "category": "productivity"
+}

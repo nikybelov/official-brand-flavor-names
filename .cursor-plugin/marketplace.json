@@ -1,0 +1,17 @@
+{
+  "name": "official-brand-flavor-names",
+  "owner": {
+    "name": "nikybelov"
+  },
+  "metadata": {
+    "description": "Скилл: официальные названия брендов и ароматов кальянного табака в опросном Excel.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "official-brand-flavor-names",
+      "source": "./plugins/official-brand-flavor-names",
+      "description": "Правит бренды и вкусы в чаше опросного листа на имена с банки производителя."
+    }
+  ]
+}
