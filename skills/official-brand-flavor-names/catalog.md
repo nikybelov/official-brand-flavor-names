@@ -2,12 +2,14 @@
 
 Card titles from Hookah Portal, collected 2026-11-06. One section per brand, one subsection per line, one bullet per flavor name on the card.
 
+Brands with no portal cards are appended from shop cards on the same date: JustFreid item names, Cloudtaste titles for Frigate, Legal Joy, Neon Leaf, Zenith, Jibiar, Zomo, Sultan, Rell Blend, and Split, and the brand or shop pages named in the Blansh, Kvist, Buta, Swag, and Mr. Brew sections. Frigate is доха. Rell Blend and Split are tea-leaf mixes.
+
 How to use with [SKILL.md](SKILL.md) and [names.md](names.md):
 
 - If the typed pair is in names.md, use that official jar name.
 - Otherwise find the brand here and use the bullet spelling when it is the same SKU, not merely a shared word.
 - Do not pick a mix because a mono word appears inside it. Do not switch line when the same flavor name exists on more than one line.
-- Brands listed at the bottom were on the market list but had no flavor cards in this scrape. Do not invent their flavors from memory.
+- Brands listed at the bottom had no flavor cards in this scrape. Do not invent their flavors from memory.
 
 ## BlackBurn
 
@@ -4561,37 +4563,1225 @@ SABOTAGE на банке — отдельный бренд, даже если в
 - Мороз
 - Золотое Кольцо
 
+## Trofimoff's
+
+Shop cards, JustFreid, 2026-11-06. The jar brand is Trofimoff's.
+
+### Burley
+
+- Red Currant
+- Wild Strawberry
+- Kriek
+- Mangifera
+- Coke
+- Grapefruit
+- Sri Lanka
+- Ruby Grapes
+- Nurr
+- Green Tea
+- Yellow Lemon
+- Old School Orange
+- Hurtleberry
+- Balieys
+- Abricot
+- Peach
+- Opuntia Pear
+- Kiwi
+- Cocos
+- Double Apple
+- Cookies
+- Watermelon
+- Pan Banan
+- Nobilis
+- Tangerine
+- Pop Corn
+- Pineapple
+- Green Apple
+- Dark Plum
+- The Rose
+- Crespino
+- Lavander
+- Elder Flowers
+- Cashmere Guava
+- Cashmere Nectarine
+- Ron
+- Limonata
+- Regan
+- Wintergreen
+- Pera
+- Cantalupo
+- Passionfruit
+- Hazelhut
+- Rhubarb
+- Ginger Ale
+- Mint
+- Gingerbread
+- Jasminum
+- Bellini
+- Sujuk
+
+### Terror
+
+- Finlandia Vanilla
+- Red Currant
+- Coke
+- Wild Strawberry
+- Old School Orange
+- Hurtleberry
+- Abricot
+- Kriek
+- Mangifera
+- Balieys
+- Dark Plum
+- Crespino
+- Pineapple
+- Base Terror
+
+### No Aroma
+
+- Limoncello
+- Italia
+- Shurale
+- Virgin
+- Like Zaghoul
+- Spirit
+- Jenever
+- Ortica
+- Cognac
+- Stout
+- Salvia
+- Base Brl
+- Matricaria
+- Tequila
+- Anejo
+
+### Cigarro
+
+- Drama
+- Pepe
+- Connecticut
+- Crio
+
+## Palitra
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Thyme Tea
+- Garden Berry
+- Pear Date
+- Corn Hub
+- Raisat
+- Carrot fresh
+- Lavender Lemonade
+- Double Boost
+- Grape Green Mint
+- Pepper vanilla
+- Mango Cream
+- Sour Rasp Berry
+- Coconut wormwood
+- Aivazovsky Limited Edition
+- Gum Boom
+- Грибы со сметаной
+- Шишки
+- Pumpkin yogurt
+- Vanilla
+- Grapefruit juice
+- Хлеб с маслом
+- Strawberry
+- Cherry Tonic
+- Juicy peach
+- Vafli USSR
+- Double Frost
+- Baikal Loved
+- Cucumber Drink
+- Sauvignon Blanc
+- Pon Pon Chik
+- Skittles
+- Пол литра
+- Baikal Love
+- Papaya Pomelo
+- Wood Berry
+- Samurai Drink
+- Cola
+- Mara Passion
+- Sarduri
+- Cranberries
+- Blue Berry
+- Mystic
+- Ananas
+- Pink Moon
+- Verry Berry
+- Margarita
+- Bannana Jingles
+- Black Currant
+- Green Kiwi
+- Lemon Marmalade
+- Apple
+- Cactus Pir
+- Straw Black Berry
+- ТемлеЧечек
+- Melon Elderberry
+- Wood Flowers
+
+### Heavy
+
+- Watermelon
+- Grapefruit
+- Love 66
+- Sweet Pan
+- Papaya
+- Cola
+- Melon
+- Kiwi
+- Perfume
+- Raspberry
+- Jackfruit
+- Jasmine
+- Peach
+- Feijoa
+- Black Currant
+- Lavender
+- Wild Strawberry
+
+## Take
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Black Afgano
+- Spritie
+- New Zealand Wine
+- Black Currant Mojito
+- Strawberry Milkshake
+- Jasmine Tea
+- Fruit Tea
+- Orange Soda
+- Bitter Peach
+- Estragon Lemonade
+- Be Delicious
+- Pear-Cactus
+- Green Tea
+- Honey
+- Fir Cones
+- Montale
+- Blueberry-Cream
+- Wild Raspberry
+- Pineapple
+- Purple Skittle
+- Cola
+- Watermelon
+- Yellow Mango
+- Cane Mint
+- Lemonade Raspberry-Rose
+- Black Currant
+- Ripe Papaya
+- Ice
+
+### 3.0
+
+- Juneberry&Bird Cherry
+- Pink Mix
+- Cream Soda
+- Клубника Юдзу Цитрус
+- Сладкая Гуава
+- Тыква В Пряной Карамели
+
+## База
+
+Shop cards, JustFreid, 2026-11-06. Lines are Полегче and Покрепче.
+
+### Полегче
+
+- Сливочное Масло
+- Молочный Шоколад
+- Молоко
+- Попкорн
+- Белый Чай
+- Бомбей
+- Манго
+- Минеральная Вода
+- Фейхоа
+- Цветы Груши
+- Жимолость
+- Пан
+- Одуванчик
+- Тархун
+
+### Покрепче
+
+- Апельсин
+- Орехи
+- Пихта
+- Белый Чай
+- Кашмир
+- Пион
+- Пудра
+- Кардамон
+- Фисташка
+- Замша
+- Мускус
+- Роза 250 Limited Edition
+
+## Morpheus
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Карибский Табак
+- Черника
+- Апельсин
+- Клюква Джин
+- Кола
+- Лайм
+- Малина Клубника
+- Манго Цитрус
+- Тропик
+- Фруктовый Йогурт
+- Ягоды Грейпфрут
+- Ананас Темные Ягоды
+
+## Everest
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Burley 8848 M
+- Cherry
+- Clover
+- Strawberry
+- Lemon
+- Blueberry
+- Dark Plum
+- Jager
+
+## Khan Burley
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Lemon
+- White Russian
+- Pink Melon
+- South Mors
+- Pomeberry Chai
+- Tropical Drink
+- Appleberry
+- Tirameesoo
+- Mandarin Whiskey Sour
+- Mint
+- Rich Mango
+- Grapes
+- Watermelon
+- Wat-A-Kiwi
+- Cola
+- Blue Berry
+- Maracuja
+- Needles
+- Rare Pear
+- Sweet Smth
+- Pineapple
+- Burley
+- Okay Melon
+- Jager
+- Mix 206
+- Oh Cookie
+- Black Feijoa
+- Pistachio Gelato
+- Typical Milkshake
+- Wild Berries
+- Cherry Pop
+- Iced Tea
+
+## Muassel
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Мятная Свежесть
+- Шипучка
+- Малина Садовая
+- Небесный Релакс
+- Цитрусовый Фреш
+- Ветер Перемен
+- Киви
+- Гуаманго
+- Виноградный Леденец
+- Ночной Лес
+- Жвачка С Корицей
+- Папайя
+- Тропический Остров
+- Сочный Манго
+- Виноградная Косточка
+- Таежные Ягоды
+- Сладкий Кактус
+- Экзотические Фрукты
+- Магрибский Чай
+- Цитрусовый Манго
+- Медовый Месяц
+- Личи-Лимонад
+- Томат С Перцем
+- Огуречный Бриз
+- Булочка С Корицей
+- Лимонное Печенье
+
+### Strong
+
+- Небесный Релакс
+- Летний Поцелуй
+- Черника -Малина
+- Ветер Перемен
+- Мятная Свежесть
+- Виноградная Косточка
+- Красный Ангел
+- Тропический Остров
+- Цитрусовый Манго
+- Ночной Лес
+- Сладкий Кактус
+- Цитрусовый Фреш
+- Виноградный Леденец
+- Папайя
+- Розовый Закат
+- Малина Садовая
+- Сочный Манго
+- Холодная Гренада
+- Медовый Месяц
+- Киви
+- Жвачка С Корицей
+- Лимонная Долька
+- Таежные Ягоды
+- Гуаманго
+- Магрибский Чай
+- Томат С Перцем
+- Шоколад С Мятой
+- Личи-Лимонад
+- Экзотические Фрукты
+
+### Extra Strong
+
+- Лимонная Долька
+- Летний Поцелуй
+- Тропический Остров
+- Дикий Ананас
+- Мятная Свежесть
+- Медовый Месяц
+- Ветер Перемен
+- Ночной Лес
+- Таежные Ягоды
+- Цитрусовый Фреш
+- Виноградная Косточка
+- Розовый Закат
+- Жвачка С Корицей
+- Малина Садовая
+- Киви
+- Холодная Гренада
+- Черника-Малина
+- Цитрусовый Манго
+- Двойное Яблоко
+- Виноградный Леденец
+- Папайя
+- Гуаманго
+- Красный Ангел
+- Небесный Релакс
+- Сочный Манго
+
+## Nur
+
+Shop cards, JustFreid, 2026-11-06. The card text keeps the capsule strength words. Do not shorten it to a guessed flavor.
+
+### Основная
+
+- Средняя Банан Ягоды Капсула С Табаком
+- Легкая Апельсин Черника Капсула С Табаком
+- Легкая Манго Маракуйя Капсула С Табаком
+- Легкая Ананас Манго Капсула С Табаком
+- Легкая Лимонад Тархун Капсула С Табаком
+- Средняя Русские Ягоды Капсула С Табаком
+- Средняя Мультифрукт Капсула С Табаком
+- Легкая Арбузная Жвачка Капсула С Табаком
+- Крепкий Японский Виноград Капсула С Табаком
+- Легкая Свежие Ягоды Капсула С Табаком
+- Легкая Киви Фейхоа Капсула С Табаком
+- Легкая Черничный Маффин Капсула С Табаком
+- Средняя Арктические Тропики Капсула С Табаком
+- Средняя Это Любовь Капсула С Табаком
+- Легкая Беллини Капсула С Табаком
+- Средняя Эвкалипт Сосна Ягода Капсула С Табаком
+- Легкая Гуава Персик Капсула С Табаком
+- Легкая Ягодный Крем Капсула С Табаком
+- Крепкий Карамель Шоколад Ягоды Капсула С Табаком
+- Крепкий Свежие Ягоды Капсула С Табаком
+- Средняя Чернослив Ром Ягоды Капсула С Табаком
+- Легкая Фейхоа Малина Капсула С Табаком
+- Крепкая Апельсин Черника Капсула С Табаком
+- Средняя Малиновый Джин Тоник Капсула С Табаком
+- Крепкий Банан Ягоды Капсула С Табаком
+- Легкая Дыня Персик Капсула С Табаком
+- Средняя Хвоя Фейхоа Капсула С Табаком
+- Легкая Капучино Капсула С Табаком
+- Легкая Карамель Шоколад Капсула С Табаком
+- Крепкий Пина Колада Капсула С Табаком
+- Средняя Шоколад Мята Капсула С Табаком
+- Крепкий Масала Капсула С Табаком
+- Легкая Лавандовый Тоник Капсула С Табаком
+- Средняя Роза Сосна Капсула С Табаком
+- Легкая Груша Арахис Капсула С Табаком
+- Легкая Молочный Шоколад Капсула С Табаком
+- Легкая Гранола Капсула С Табаком
+- Средняя Виноград Мята Капсула С Табаком
+- Средняя Индийские Специи Капсула С Табаком
+- Легкая Красная Смородина Капсула С Табаком
+- Легкая Пина Колада Капсула С Табаком
+- Крепкий Красная Смородина Капсула С Табаком
+- Крепкий Чернослив Ром Ягоды Капсула С Табаком
+
+## Oven
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Red Fury
+- Passion Bliss
+- Sweet Cherry
+- Prune Cake
+- Black Currant
+- Cherry Rom
+- Fusion Tea
+- Red Apple
+- Red Gooseberry
+- Raspberry
+- Wild Berries
+- Sunny Apricot
+- Plum Soul
+- Pineapple
+- Matcha
+- Tangelo Twist
+- Watermelon
+- Cranberry Sorbet
+- Папайя
+- Jalapa Base
+- Сириус
+- Рислинг
+- Bumble
+- Lime
+- Strawberry
+
+## Snobless
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Prime Line
+
+- Gardenia
+- Raspberry
+- Creme Brulee
+- Blackberry
+- Cognac
+- Carrot
+- Prosecco
+- Lime
+- Dogwood
+- Strawberry
+- Mint Gum
+- Lychee
+- Pineapple
+- Mango
+- Grape
+- Mead
+
+### Vibes Line
+
+- Parmesan-Walnut-Honey
+- Sea Buckthorn-Cowberry
+- Lavender Cappuccino
+- Banana Waffles
+- Sundae, Walnut & Marple Syrup
+- Pear-Fig-Cherimoya
+- Gooseberry, Cucumber & Pine
+- Hawthorn Rosehip
+- Pumpkin Raf-Coffee
+- Peanut
+- Kiwi Feijoa
+- Guava & Energy Drink
+
+### Special Line
+
+- Camphor Wood Vanilla
+
+### Limited
+
+- Горчица С Хреном
+- Соленые Огурцы
+
+## Душа
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Invidia Зависть
+- Avaritia Алчность
+- Saporbia Тщеславие
+- Ira Гнев
+- Acedia Уныние
+- Gula Чревоугодие
+- Patientia Терпение
+- Luxuria Похоть
+- Humilitas Смирение
+- Castitas Целомудрие
+- Caritas Любовь
+- Temperantia Умеренность
+- Industria Усердие
+- Humanitas Доброта
+
+### Mono
+
+- Mousse
+- Mountain
+- Duchesse
+- Magenta
+- Long
+- Violet
+- Keder
+- Cherries
+- Riesling
+- Macaroon
+- Grey
+- Cian
+- Pink
+- Rich
+- Guave
+- Yellow
+- Mint
+- Basil
+- Base
+
+### Mono Limited
+
+- Gipsy
+- Zeus
+
+## Молодость
+
+Shop cards, JustFreid, 2026-11-06.
+
+### Основная
+
+- Первые Деньги
+- Прыжок С Парашютом
+- Стартап С Друзьями
+- Мультики На Завтрак
+- Гол В Девятку
+- Путешествие Автостопом
+- Первый Секс
+- Яблоко
+- Первая Драка
+- Что-Нибудь К Чайку
+- Босиком По Росе
+- Рассвет На Крыше
+- Родаки На Даче
+- Медляк На Дискотеке
+- Песни У Костра
+- Деревенская Дискотека До Утра
+- Креативные Закатки От Бабули
+- Pineapple Pine Apple
+- Закат У Океана
+- Весь Рот Фиолетовый
+- Поездка На Озеро Байкал
+- Ветер В Лицо
+- Колхозница
+- Американская Вечеринка
+- Суперновый
+- Чё За Фрукт Нарисовался
+- Первая Любовь
+- Борода Из Ваты
+
+### X Молодость
+
+- Первая Вечеринка
+- Первая Победа
+- Путешествие Автостопом
+- Первое Путешествие
+- Ларек С Мороженым
+- Что-Нибудь К Чайку
+- Деревенская Дискотека До Утра
+- Выпускной
+- Первые Деньги
+- Амыеё
+- Креативные Закатки От Бабули
+- PINEAPPLE PINE APPLE (Ананас,сосна,яблоко
+- Проезд: Москва
+
+## Ready
+
+Shop cards, JustFreid, 2026-11-06. The flavor is the numbered mix, not a separate mono SKU.
+
+### Mixes
+
+- №1 — Chocolate Hazelnut Caramel
+- №2 — Pear Champagne Melissa
+- №3 — Kumquat Sweet Soda
+- №4 — Date Cactus Watermelon Basil
+- №5 — Lavender Wine
+- №6 — Pomegranate Strawberry Raspberry
+- №7 — Cannabis Green Apple
+- №8 — Energy Drink Pomegranate Barberry
+- №9 — Energy Drink Geranium Rose Sweet Soda
+- №10 — Tomato Basil Cheese
+- №11 — Milk Almond Coconut
+- №12 — Grapefruit Gin Rosemary
+- №13 — Papaya Guava
+- №14 — Cream Apple Carrot
+- №15 — Cereals Banana Milk Chocolate
+- №16 — Black Currant Raspberry Peppermint
+- №17 — Isabela Grapes Cream
+- №18 — Coconut Masala Tea
+- №19 — Strawberry Elderberry Kiwi
+- №20 — Brownie Orange
+
+### Smoky Trip
+
+- №1 — Lemon Tonic Lavander
+- №2 — Sauvignon Raspberry
+- №3 — Gin Lime
+
+## Frigate
+
+Shop cards, Cloudtaste, 2026-11-06. This is доха, not a leaf tobacco jar.
+
+### Основная
+
+- Moscow Doha
+- Arctic Monkey
+- Caribbean Nights
+
+## Legal Joy
+
+Shop cards, Cloudtaste, 2026-11-06. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- Red Candy
+- Pink Mix
+- Lime Mix
+- Lemon Ice
+- Double Apple
+- Pear
+- Grape
+- Kiwi
+- Grapefruit Blue
+- Forest Berry
+- Strawberry
+- Blueberry
+- Mint
+- Cherry
+- Multifruit
+- Grapefruit
+
+## Neon Leaf
+
+Shop cards, Cloudtaste, 2026-11-06. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- Watermelon
+- Ice
+- Peach
+- Baikal
+- Strawberry
+- Ice Raspberry
+- Cola
+- Melon
+- Ice Strawberry-Melon
+- Blackberry Banana
+- Ice Pineapple
+- Orange
+- Lychee
+- Mango
+- Grape
+- Green Apple
+- Forest Berry
+- Raspberry
+- Banana
+- Tutti-Frutti
+- Cherry
+- Mint
+
+## Zenith
+
+Shop cards, Cloudtaste, 2026-11-06. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- Muesli Time
+- Cookies
+- Peach Boom
+- Pineapple
+- Blueberry Muffin
+- Lemon
+- Orbit
+- Acid Blue
+- Prickly Pear
+- Pink Pineapple
+- Red Granade
+- Lemon Pie
+- Mango
+- Grapes
+- Blueberry
+- Black Currant
+- Energy
+- Lychee
+- Guava
+
+## Jibiar
+
+Shop cards, Cloudtaste, 2026-11-06. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- Sheik Money
+- Plombir Lemon
+- Magic Gum
+- Sunset
+- La beirut
+- African King
+- Sahlep
+- Paris
+- hypnotic
+- boombastic
+- Double Melon
+- Hawaii
+- Green Mix
+- Strong Mint
+- Paradise Island
+- Baku Night
+- Crazy Lady
+- Tony Montana
+- Enjoy
+- Ice Tangerine
+- Ice Strawberry Banana
+- Istanbul Nights
+- Amour Infini
+- Dragon Berry
+- Calista
+- Santa Barbara
+- Ice Raspberry
+- Strawberry
+- Vingle Vangle
+- Ice Citrus Mint
+- Hip Lem
+- Orange Mint
+- Cinderella
+- Red Berry Mix
+- Cleopatra
+- Moscow Night
+- Dejavu
+- Sweet Princess
+- Escobar
+- Jibiar Passion
+- Fresh Berry
+- Guava Raspberry
+- Ice Grape Berry
+- Banana Milkshake
+- Poseidon
+- English gold
+- marabella
+- Kaymak
+- Pineapple
+- Ice Raspberry Tangerine
+- Blackberry
+- Blue Melon
+- Ice Melon Strawberry
+- 1 Million
+- Grape Berry
+- Amore Mio
+- Watermelon Grapefruit
+- Grape
+- Лав Джибиар
+- Гавана
+- Дабл Мелон Краш
+- Lemon Cake
+- Cinnamon Gum
+- Lemon
+- Two Apples Gold
+- Phaselis
+- Tiramisu
+- Mint Gold
+- Vanilla Latte
+- Regnum
+- Deep Blue
+- Tangerine Watermelon
+- Ледяной Кактус (Ice Cactus) 50 гр
+- Lime Strawberry Raspberry
+- Blue strawberry
+- Voltage
+- Casper
+- Lime Grape
+- Amazon
+- Sheikh
+- Ice Mango
+- Ice Orange
+- Cola Orange
+- Strawberry Lemonade
+- Чай С Лимоном (Chai Lemon) 50 гр
+- Королевский Дворец (Royal Palase) 50 гр
+- Pistachio Brezee
+- Ice Peach Blueberry
+- Ice Watermelon
+- Turkish Mastic
+- Ice Melon
+- Ice Double Melon
+- Ice Grapefruit
+- Ice Cherry
+- Лайм Личи Черника (Lime Lychee Blueberry) 50 гр
+- Exotic Lime
+- Mint
+- Melon
+- Blue Orange
+- Absolute Menthe
+- Peach Ice Tea
+- Absolute Zero
+- Lemon Mint
+- Mango
+- Volcano
+- Gum Peach
+- Biscuit
+- Sweet Watermelon
+- Gum Strawberry
+- Ice Cola
+- Inferno Night
+- Fresh Mango Mix
+- Pan Raas
+- Two Apples
+- Orange Chocolate
+- Lime Peach
+- Chocolate Chill
+- Ice Gold Peach
+- Blue Heaven
+- Four Season
+- Fresh Watermelon
+- Grapefruit
+- Fanda Exotic
+- Ice Strawberry Raspberry
+- Ice Pineapple
+- Orange
+- Ice Pear
+- Lem Chill
+- Baked Peach
+- Master Mix
+- Blackberry Grape
+- Mojito
+- Orange Cream
+- Fresh Exotic
+- Solero
+- Cola Lemon Maracuja
+- Ice Lemon
+- Orange Vanilla
+- Lemonade
+- Sweet Mango Mix
+- Cold Passion
+- Baja Blue
+- Gum
+- Ice Strawberry
+- Coachella
+- Ice Blueberry
+- Blue Mist
+- Fresh Blue
+- Blueberry
+- Happy Mango
+- Captain Pirates
+- Miami
+- Ice Bonbon
+- Plombir
+- Grape Mint
+- Lime Crush
+- Cola Lime
+
+## Zomo
+
+Shop cards, Cloudtaste, 2026-11-06. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- Plumboom
+- Ya Papa
+- Tequility
+- Secret Babylon
+- Strawmerry
+- Kiwiki
+- Cheguava
+- Coco Island
+- Cool Tropic
+- Mistery of bali
+- Splash Joy
+- Tropical Amazon
+- Four Seasons
+- White Shocomerry
+- Banaboom
+- Fresh Lemonex
+- Bloomberry
+- Dragon Wall
+- Grapper
+
+## Sultan
+
+Shop cards, Cloudtaste, 2026-11-06. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- Ice Green Fruit
+- Try Now
+- Ice Cantaloupe Cherry
+- Pink Lady
+- Ice Red Berry Citrus
+- Cherry Mint
+- Ice Grape Berry
+- Ice Red Grape Issabela
+- Strawberry Banana
+- 2 apples
+- Chocolate Mint
+- Ice coco lime
+- Chillax
+- Ice Grapefruit
+- Ice Passion Citrus Blast
+- Ice Mango Blood Orange
+- Ice Grape
+- Baked Peach Lime
+- Lemon Mint
+- Wild Berry
+- Ice Tropical
+- Ice Passion Fruit Kiwi
+- Ice Multi Fruit
+- Ice Raspberry
+- Ice Citrus Mint
+- Ice Lychee Blueberry Lime
+- Ice Pineapple
+- Passion Mood
+- Ice Watermelon Berry
+- Star Women
+- Ice Pomegranate Raspberry
+- Ice Banana Blueberry
+- Ice Quince Feijoa Citrus
+- Blood Orange
+- Buffalo Blu
+- Ice Tangerine Berry Twist
+- Ice Acai Raspberry
+- Ice Apple
+- Ice Watermelon
+- Ice Black Currant
+- Raspberry
+- Ice Lemon Ginger Raspberry
+
+## Rell
+
+Shop cards, Cloudtaste, 2026-11-06. Rell Blend is a tea-leaf mix. The Latin name in parentheses is the SKU.
+
+### Rell Blend
+
+- Wild Blueberries
+- Multifruit Monster
+- Garden Raspberry
+- Turbo Banana
+- Melty Melon
+- Mr. Grape
+- Orange
+- Candy Lemon
+- Cola-Mint-Orange
+- Pear
+- Pina Colada
+- Arctic Frost
+
+## Split
+
+Shop cards, Cloudtaste, 2026-11-06. Split is a tea-leaf mix. The Latin name in parentheses is the SKU.
+
+### Основная
+
+- July Fury
+- Jelly Kelly
+- Fundraiser
+- Florence Field
+- Jassie Jazz
+- Bubble Bunny
+- Gunskeeper
+- Wild Wizzard
+- Bootlegger
+- Tila Manila
+- Barby Ice
+- Jam Master
+- Pretty Betty
+- Lolli Lips
+- Backpacker
+- Lady Bird
+- Lumberjack
+- El Gringo
+- Mary Berry
+- Stargazer
+- Freeze Bee
+- Libertina
+- Z'Lacker
+- Beach Loafer
+- Chappo Boy
+- Black Violet
+- Brainstorm
+
+## Blansh
+
+Product titles on the Spbkalyan Blansh catalog, 2026-11-06.
+
+### Основная
+
+- Вишневый Сад
+- Кивикраш
+- Блэккурант
+- Вареная Кукуруза
+- Клубничка 18+
+- Лимонный Фреш
+- Мангомания
+- Сливки 33%
+- Грейпфрутовый Сок
+- Клюквенный Морс
+- Маракуйя
+- Яблоко Наливное
+
+## Kvist
+
+Flavor names printed on the Kvist brand page, lines Medium and Kashmir, 2026-11-06.
+
+### Medium
+
+- Top Secret
+- New Lime
+- Мёд
+- Peach Iced Tea
+- Митол
+- Fant@
+- Ананас
+- Дюшес
+- Крыжовник
+- УС-3000
+- Кленовый сироп
+- Бейлиз
+- Брусника
+- Чёрная смородина
+- Черника
+- BDSM
+- Frost Mint
+- Green Tea
+- Black Tea
+- Venomancer
+- Fired Whiskey
+- Ice Blast
+
+### Kashmir
+
+- Jamberry
+- Peach
+- Pear
+
+## Buta
+
+Black line from SmokyLoot product titles, plus Black, Gold, and Fusion names printed on HookahHub, 2026-11-06. Gram weights are not part of the name.
+
+### Black
+
+- Banana
+- Berry
+- Black Peach
+- Blue Melon
+- Blueberry
+- Blueberry Cake
+- Cherry
+- Cinnamon Cookie
+- Cola
+- Cosmopolitan
+- Earl Grey Tea
+- Fakhfakhina
+- Fruit Mix
+- Grapefruit
+- Guava
+- Ice Berry
+- Ice Blueberry
+- Ice Cherry
+- Ice Mango
+- Ice Maracuya
+- Ice Peach
+- Ice Pear
+- Ice Pineapple
+- Ice Raspberry
+- Peanut
+- Barberry
+- Orange
+- Lemongrass
+- Kashmir Mango
+- Velvet Sky
+- Kashmir Cherry
+- Kashmir Peach
+- Kiwi
+- Going Nuts
+- Horchata
+- Drive
+- Eskimo
+- Blackberry
+- Lime
+- Kashmir Lemon
+
+### Gold
+
+- Guava
+
+### Fusion
+
+- Lemongrass
+- Orange Cream
+- Peanut
+
+### Named on the card, line not printed
+
+- Honey
+- Spiced Peach
+- Pomegranate
+
+## Swag
+
+Hookah-tobacco titles printed on the Swag wholesale page, plus Мятные пастилки from the HTReviews line page, 2026-11-06. HTReviews counts 15 flavors in the main line; names that were not printed stay unlisted.
+
+### Основная
+
+- Арахис и Ром
+- Гранат
+- Молоко
+- Кукуруза
+- Карамельный табак
+- Хурма
+- Эвкалипт
+- Лимон
+- Мятные пастилки
+
+## Mr. Brew
+
+Names printed on the Mr Brew vendor page that loaded, 2026-11-06. The page did not show the rest of the line, so a missing flavor here is not proof that the SKU does not exist.
+
+### Основная
+
+- Black Dessert
+- Brake Slow
+- Dried Plum
+- Blanche Bianco Brew
+- Coco Water
+- Raspberry Soda
+- Strawberria
+
 ## Not in this scrape
 
-These brands were on the market list. Hookah Portal had no flavor cards for them on 2026-11-06, so this catalog does not name their SKUs:
+These brands were on the market list. The pages opened on 2026-11-06 did not print a flavor catalog, so this file does not name their SKUs:
 
-- Trofimoff's
-- Palitra
-- Take
-- База
-- Morpheus
-- Blansh
-- Buta
-- Everest
-- Frigate
-- Khan Burley
-- Kvist
-- Legal Joy
 - Manual
-- Mr. Brew
-- Muassel
-- Neon Leaf
-- Nur
-- Oven
-- Ready
-- Rell
-- Snobless
-- Swag
-- Zenith
-- Душа
-- Молодость
-- Jibiar
 - Starbuzz
-- Zomo
-- Sultan
-- Split

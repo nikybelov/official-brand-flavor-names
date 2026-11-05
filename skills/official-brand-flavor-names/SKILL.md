@@ -85,7 +85,7 @@ NAШ mono «Чёрная смородина» is **NAШ Black**. White line near
 
 Full pair table: [names.md](names.md).
 
-Line and flavor cards for the brands on the Russian market: [catalog.md](catalog.md).
+Line and flavor cards for the brands on the Russian market: [catalog.md](catalog.md). Portal cards come first. Brands missing there are later in the same file, taken from shop cards. Frigate is доха. Rell Blend and Split are tea-leaf mixes.
 
 ## Lookup order
 
