@@ -51,7 +51,7 @@ Use manufacturer writing, not ALL-CAPS from the form:
 | BLACKBURN | BlackBurn |
 | Darkside / DARKSIDE | DARKSIDE |
 | OVERDOSE / Overdose | OVERDOSE |
-| Troffimof | Trofimoff's |
+| Troffimof / Troffimov’s | Trofimoff's |
 | Deus | DEUS |
 | Sebero / Себеро | SEBERO |
 | Sabotage | SABOTAGE |
@@ -60,7 +60,11 @@ Use manufacturer writing, not ALL-CAPS from the form:
 | НАШ / Наш | NAШ |
 | Наш крепкий | NAШ Black |
 | Musthave | MUSTHAVE |
-| Сарма / Хулиган / Bliss / Chabacco / База / Starline / Take / Palitra / Morpheus / Afzal | as-is (Сарма, Хулиган, …) |
+| Black Burn / Black burn | BlackBurn |
+| Dark side | DARKSIDE |
+| Over dose | OVERDOSE |
+| Hlgn | Хулиган |
+| Сарма / Хулиган / Bliss / Chabacco / База / Starline / Take / Palitra / Morpheus / Afzal / Bonche / Догма / Satyr | as-is (Сарма, Хулиган, Bonche, Догма, …) |
 
 NAШ mono «Чёрная смородина» is **NAШ Black**. White line nearest SKU is a different mix (`Смородина крыжовник`) — do not substitute.
 
@@ -71,6 +75,9 @@ NAШ mono «Чёрная смородина» is **NAШ Black**. White line near
 - Fix typos (`Гоейпфрутовый` → `Грейпфрутовый`, `Байкальяская` → `Байкальская`).
 - POOL: brand **Хулиган**, flavor **POOL** (HARD POOL only if the form says hard/крепкий).
 - Greenwich: brand **Spectrum**, flavor **Greenwich** (not JENT; JENT has Green Witch = absinthe).
+- Kretek: brand **MattPear** (JENT has no Kretek SKU).
+- NAШ «Корица» is **NAШ Black**. «Голубика» exists on both White and Black — do not change the line.
+- Догма «Белое сухое» is not «Белое полусладкое». Leave it if that is what was typed.
 - Chabacco lemon slices: **Lemon Jelly Slices**.
 - MUSTHAVE «Карамель»: **Candy Cow**.
 - BlackBurn «Байкал»: **Siberian Soda**; «тропический сок»: **На чиле**.

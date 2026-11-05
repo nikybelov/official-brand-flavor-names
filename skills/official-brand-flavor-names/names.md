@@ -111,3 +111,72 @@ Do not map Манго → Манго-лайм or Ананас → Ананас-�
 | instruction text + Pool | Хулиган / POOL |
 | JENT + Greenwich | Spectrum / Greenwich |
 | Jent + anything else | brand JENT; Green Witch is absinthe, not Greenwich |
+| JENT + Kretek | MattPear / Kretek (в каталоге JENT такого SKU нет) |
+| Hlgn + Pool | Хулиган / POOL |
+| Наш + Корица | NAШ Black / Корица (Black Line; Голубика есть и в White, и в Black — бренд не менять) |
+
+## BlackBurn (добавлено)
+
+| Typed | Official |
+|-------|----------|
+| Raspberry shock | Raspberry Shock |
+| Raspberry | Raspberries (не Raspberry Shock) |
+| White grape | White Grape |
+| Red currant | It's Not Black Currant (не Currant Shock) |
+| Feijoa jam | Something Sweet |
+| Papaya v obed | Papaya v Obed |
+| Ananas shock | Ananas Shock |
+
+## DARKSIDE (добавлено)
+
+| Typed | Official |
+|-------|----------|
+| Supernova | Supernova |
+| Supra | DarkSupra |
+| Cyber kiwi | Cyber Kiwi |
+| Bounty hunter | Bounty Hunter |
+| Mango lassi | Mango Lassi (не Mango Lassi 2.0) |
+
+## OVERDOSE (добавлено)
+
+| Typed | Official |
+|-------|----------|
+| Gin cucumber | Gin Cucumber |
+| Black vanilla | Black Vanilla |
+| Maraschino cherry | Maraschino Cherry |
+| Fig limonade | Fig Lemonade |
+
+## Trofimoff's / SEBERO / DEUS (добавлено)
+
+| Brand | Typed | Official |
+|-------|-------|----------|
+| Trofimoff's | Italia, Nurr, Limoncello, Dark plum | Italia, Nurr, Limoncello, Dark Plum |
+| SEBERO | Kiwi fresh | Kiwi Fresh |
+| SEBERO | Energy | Energetik |
+| SEBERO | Barberry, Strawberry | as-is |
+| DEUS | Lemon sugar | Sugar Lemon |
+| DEUS | White peach | White Peach |
+| DEUS | Bali flower | Bali Flower |
+| DEUS | Strawberry | Strawberry |
+
+## Прочие пары из отчёта 2026-11-05
+
+| Brand | Typed | Official |
+|-------|-------|----------|
+| Сарма | Красное яблоко | as-is |
+| СЕВЕРНЫЙ | Бабл гам | Сладкий бабл (не Свежий бабл) |
+| СЕВЕРНЫЙ | Ревень | Рядовой ревень |
+| СЕВЕРНЫЙ | Пан банан | as-is |
+| Afzal | Pan rass | Pan Raas |
+| Afzal | Spring water / Sping water | Natural Spring Water |
+| MUSTHAVE | Orange team | Orange Team |
+| MUSTHAVE | Watermelon | as-is |
+| JENT | Gin air | Gin Air |
+| Chabacco | Помело | Pomelo |
+| Chabacco | Elderberry | as-is |
+| Take | Желтый манго | Желтое манго |
+| Bonche | Red wine | Red Wine |
+| Satyr | Energy | as-is |
+| NAШ | Голубика, Черёмуха | as-is |
+| Догма | Сакура | as-is |
+| Догма | Белое сухое | не заменять на «Белое полусладкое» — другого SKU нет |
