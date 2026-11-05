@@ -92,7 +92,7 @@ Line and flavor cards for the brands on the Russian market: [catalog.md](catalog
 1. Alias in [names.md](names.md) when the typed pair is listed there.
 2. The same SKU in [catalog.md](catalog.md): brand section, then the line, then the bullet spelling. A shared word is not a match (`Манго` is not `Манго-лайм`).
 3. Maker site (`blckburn.com`, `darkside-world.com`, `overdose.pro`, `sebero.ru`, `chabacco.ru`, `tabaksever.ru`, `musthave.ru`, `deustobacco.ru`, `hlgn.cc`) or a catalog that quotes the jar (`hoko.by`, `paraday.ru`).
-4. If the brand is under «Not in this scrape» in catalog.md, or the flavor is not a listed SKU, leave it and say so. Do not invent a name.
+4. If the flavor is not a listed SKU, leave it and say so. Do not invent a name. Mr. Brew's main line in catalog.md is only the names the opened pages printed.
 
 Card brand on the portal is not always the jar brand. Write BlackBurn, DARKSIDE, OVERDOSE, MUSTHAVE, SEBERO, СЕВЕРНЫЙ, JENT, NAШ. Portal line НАШ HARD is **NAШ Black**.
 

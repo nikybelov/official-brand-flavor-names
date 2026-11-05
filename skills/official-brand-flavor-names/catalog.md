@@ -9,7 +9,7 @@ How to use with [SKILL.md](SKILL.md) and [names.md](names.md):
 - If the typed pair is in names.md, use that official jar name.
 - Otherwise find the brand here and use the bullet spelling when it is the same SKU, not merely a shared word.
 - Do not pick a mix because a mono word appears inside it. Do not switch line when the same flavor name exists on more than one line.
-- Brands listed at the bottom had no flavor cards in this scrape. Do not invent their flavors from memory.
+- A flavor that is not a bullet here stays as typed. Do not invent a SKU to fill the gap. Mr. Brew's main line is the exception noted in that section: the opened pages did not print every flavor HTReviews counts.
 
 ## BlackBurn
 
@@ -4661,6 +4661,35 @@ Shop cards, JustFreid, 2026-11-06. The jar brand is Trofimoff's.
 - Pepe
 - Connecticut
 - Crio
+- Futura
+
+### John Calliano Fest
+
+Limited festival jars. HTReviews lists 14 flavors on this line, 2026-11-06.
+
+- Tequila
+- Добро
+- Правда
+- Красота
+- Вкус
+- Stout
+- Calvados
+- Becherovka
+- Pear Date
+- С-137
+- Minttu
+- Karelia
+- Kriek x Trofimoff's
+- Weed
+
+### HCS 2024
+
+Four limited jars from Hookah Club Show 2024. Cavendish stays in Terror and is not repeated here.
+
+- Verry Berry
+- Crud
+- Matricaria
+- Salvia
 
 ## Palitra
 
@@ -5751,7 +5780,7 @@ Black line from SmokyLoot product titles, plus Black, Gold, and Fusion names pri
 
 ## Swag
 
-Hookah-tobacco titles printed on the Swag wholesale page, plus Мятные пастилки from the HTReviews line page, 2026-11-06. HTReviews counts 15 flavors in the main line; names that were not printed stay unlisted.
+The main line is 15 flavors: distributor product titles plus the HTReviews line page, 2026-11-06.
 
 ### Основная
 
@@ -5764,10 +5793,16 @@ Hookah-tobacco titles printed on the Swag wholesale page, plus Мятные па
 - Эвкалипт
 - Лимон
 - Мятные пастилки
+- Бурбон
+- Виноград и Мята
+- Малиновый сорбет
+- Грузинский лимонад
+- Тропическая жвачка с мятой
+- Черешня энергетик
 
 ## Mr. Brew
 
-Names printed on the Mr Brew vendor page that loaded, 2026-11-06. The page did not show the rest of the line, so a missing flavor here is not proof that the SKU does not exist.
+Shop titles and HTReviews line pages, 2026-11-06. Омская крепость (10) and Пенная (4) are the full lines those pages printed. HTReviews counts 34 in the main line; the bullets below are only the names that were printed, so a missing main-line flavor is not proof the SKU does not exist.
 
 ### Основная
 
@@ -5778,10 +5813,482 @@ Names printed on the Mr Brew vendor page that loaded, 2026-11-06. The page did n
 - Coco Water
 - Raspberry Soda
 - Strawberria
+- Baikal Of Brew
+- Berry Brew
+- Brew Candy
+- Citrus Tea
+- Colaba
+- Combuchai
+- Fructus
+- Tasty Stuff
+- Kedr
+- Tropic Soda
+- Bloody Well
+- Ray Ban
+- Milky Tea
+- BREWherowka
+- Barry Berry
+- Isabella Brew
+- Melopaya
+- Omnomnas
+- Sweet Drink
+- Citrus Boom
+- Black Herbal
+- Pomelove
+- Jungle Strike
+- Blue Moon
+- Candy Shop
 
-## Not in this scrape
+### Омская крепость
 
-These brands were on the market list. The pages opened on 2026-11-06 did not print a flavor catalog, so this file does not name their SKUs:
+- Клюква-лайм
+- Жимолость
+- Гранат
+- Сибирские ягоды
+- Тархун
+- Базилик
+- Маракуйя
+- Зеленое яблоко
+- Красный апельсин
+- Персик
 
-- Manual
-- Starbuzz
+### Пенная
+
+- IPA
+- Blanche de Brew
+- Kriek
+- Stout
+
+## Manual
+
+Manufacturer flavor list reprinted by NN-Kalyan, checked against Manual Blue product titles in the Sweet Smoke shop, 2026-11-06. The same flavor name on two lines is two SKUs. Feijoa and Lemon Pie appear only in a top-ten and are not in this list.
+
+### Зелёная
+
+- Tutti-Frutti
+- Berberis
+- Duchess
+- Wildberry
+- Passion Fruit
+- Swint Mint
+- Orange
+- Lime
+- Cherry
+- Baked Milk
+- Lemon Candy
+- Raspberry Lemon
+- Lemon Tiramisu
+- Big Berry
+
+### Синяя
+
+- Banana Melon
+- Blue Mist
+- Butter Cake
+- Cherry
+- Cowberry
+- Double Kiwi
+- Energy Drink
+- General
+- Golden Bug
+- Grapefruit
+- Green Grape
+- Jumanji
+- Lava
+- Lime Cookie
+- Mango
+- Mango Honey
+- Melon Honey
+- Pattaya
+- Peach
+- Pineapple King
+- Raspberry
+- Shoria
+- Super Mint
+- Tic-Tac
+- Voodoo
+
+### Красная
+
+- Black Currant
+- Blue Mist
+- Cherry
+- Cola
+- Grape Fresh
+- Grapefruit
+- Green Grape
+- Ice Watermelon
+- Jumanji
+- Lingonberry
+- Mango
+- Mango Honey
+- Pineapple King
+- Raspberry
+- Tic-Tac
+
+### Чёрная
+
+- Parliament
+
+## Starbuzz
+
+Official product catalog on starbuzztobacco.com, tobacco category, 2026-11-06. Buzzarillos are cigarillos and are not listed. The Exotic heading is the main tobacco- line.
+
+### Exotic
+
+- 7 Days
+- 7 Nights
+- American Pie
+- Apple Americano
+- Apple Cinnamon
+- Apple Martini
+- Apricot
+- Arabian Coffee
+- Banana
+- Blackberry
+- Blackgrape
+- Blue Mist
+- Blue Mistress
+- Blue Raspberry
+- Blue Surfer
+- Blueberry
+- Blueberry Grape
+- Blueberry Haze
+- Bubble Gum
+- Cactus
+- Cactus Chill
+- California Sunset
+- Candy
+- Cantaloupe
+- Cappuccino
+- Caramel Apple
+- Caramel Macchiatoo
+- Cherry
+- Chocolate Mint
+- Chocolate Strawberry
+- Citrus Mint
+- Citrus Mist
+- Classic Cola
+- Classic Mojito
+- Coco Jumbo
+- Coconut
+- CocoOrange
+- Code 69
+- Cool Mist
+- Cosmopolitan
+- Cucumber Freeze
+- Desert Rose
+- Double Apple
+- Egyptian Pharos
+- Exotic Honeyberry
+- Exotic Margarita
+- Flower Power
+- Fresh Lemon
+- Fruit Sensation
+- Fusion Bubbilicious
+- Fuzzy Lemonade
+- Fuzzy Naval
+- Fuzzy Watermelon
+- Gee Spot
+- Grapefruit
+- Green Mist
+- Guava
+- Hard Rush
+- Hardbuzz
+- Holiday Mix
+- Kiwi
+- Kiwi Strawberry
+- Koolychee
+- Lemon
+- Lemon Mint
+- Lemon Tea
+- Lemon Twist
+- Mandarin Rush
+- Mango
+- Marlett
+- Mastic
+- Megawatt
+- Melon Blue
+- Melon Chillo
+- Mist
+- Misty Moon
+- Mojo Mist
+- Mystic Melon
+- Ocean Mist
+- Orange
+- Orange Mint
+- Orange Spice
+- Passion Fruit
+- Passion Fruit Mojito
+- Passion Kiss
+- Peaches N Cream
+- Pear Chill
+- Pineapple
+- Pink
+- Pink Champagne
+- Pink Mist
+- Pirate's Cave
+- Piña Colada
+- Planet Buzz
+- Plum
+- Pomberry
+- Pumpkin Pie
+- Raspberry
+- Rose
+- Royal Grape
+- Safari Melon Dew
+- Screaming-O
+- Sex on the Beach
+- Sexy Mama
+- Simply Blue
+- Skybuzz
+- Skyzzz
+- Sour Apple
+- Sour Apple Mint
+- Spearmint
+- Spicy Peach
+- Spicy Red
+- Strawberry
+- Strawberry Daiquiri
+- Strawberry Lime
+- Strawberry Margarita
+- Strawberry Passion
+- Sweet Apple
+- Sweet Melon
+- Sweet Watermelon
+- Tangerine Dream
+- Tease Um
+- Tequila Sunrise
+- Tropical Fruit
+- Turkish Apple
+- U.F.O.
+- Vanilla
+- Virgin Persian
+- Virgin Strawberry
+- Watermelon
+- Watermelon Chill
+- White Citrus
+- White Delight
+- White Grape
+- White Peach
+- Wild Mint
+- Wild Sex
+- Wildberry
+- Wildberry Mint
+- Wildzone
+- Winter Fresh
+
+
+### Bold
+
+- 1st Love
+- Afterburner
+- Apple Doppio
+- Apple Mist
+- Asian Persuasion
+- Awakening
+- Banana Milkshake
+- Black Mint
+- Black Peach Mist
+- Blueberry Milkshake
+- Blueberry Mint
+- Brownie
+- Caribbean Mist
+- Citrus Melon
+- Code Blue
+- Cosmo Power
+- Creamy Melons
+- Dark Chai
+- Dibs on Ashley
+- French Buzz
+- Frosted Melon
+- Geisha
+- Golden Grape
+- Grape Freeze
+- Grapefruit Mint
+- Green Savior
+- Hawaiian Mist
+- Honey Dew Me
+- Irish Blue
+- Irish Freeze
+- Irish Kiss
+- Irish Lemon
+- Irish Mist
+- Irish Peach
+- Jack the Ripper
+- Key Lime Pie
+- Lady in Red
+- Mad Dog
+- Mango Freeze
+- Mango Lassi
+- Mango Mist
+- Margarita Freeze
+- Melonrita
+- Mighty Freeze
+- Mint Colossus
+- Moroccan Magic
+- Myst
+- New Amsterdam
+- Orange Mist
+- Passion Tea
+- Peach Ice Tea
+- Peach Mist
+- Peach Queen
+- Pineapple Freeze
+- Pink Lady
+- Purple Mist
+- Purple Savior
+- Purple Sensation
+- Queen of Sex
+- Red Mist
+- Sex 101
+- Simply Mango
+- Simply Mint
+- Sin City
+- Skull
+- Sour
+- Spiced Chai
+- Starpuff
+- Starwoods
+- Strawberry Milkshake
+- Tea Berry
+- Tropical Mist
+- Tropicool
+- Watermelon Freeze
+- White Bear
+- White Chai
+- White Mint
+
+
+### Vintage
+
+- Alaskan Freeze
+- Black Colossus
+- Black Kiwi
+- Colombian Spice
+- Dark Caribbean
+- Dark Citrus Mint
+- Dark Guava
+- Dark Mist
+- Dark Vanilla
+- Delhi Tea
+- Fresh Lime
+- Ginkco
+- Green Savior
+- Honey Dew Me
+- Indian Spiced Apple
+- Mango
+- Morning Breeze
+- Mulberry Spice
+- Orange Chocolate
+- Peach Spice
+- Root Beer
+- Shanghai Passion
+- Sour Berry
+- Spice Me Red
+- Sweet Cigar
+- Tiramisu
+- Tokyo Spice
+- White Mist
+- Wildberry Mint
+
+
+### Serpent
+
+- Afterburner
+- Bohemian
+- Cobra Khan
+- Crimson Fox
+- Crow
+- Gee Spot
+- Kathmandu
+- Kings Tea
+- Lioness
+- Mad Dog
+- Megawatt
+- New Amsterdam
+- Rogue
+- Shishi
+- Sin City
+- Skull
+- Sting Mint
+- Teabet
+
+
+### Hypnosis
+
+- Apple Blossom
+- Banana Split
+- Bananaza
+- Blackberry
+- Blueberry Haze
+- California Sunset
+- Cantaloupe
+- Caramel Apple
+- Cherry Cola
+- Chocolate Strawberry
+- Coconut Chill
+- Code Black
+- Desert Rose
+- Double Trouble
+- Exotic Honeyberry
+- Fresh Licorice
+- Fruit Sensation
+- Golden Grape
+- Green Gum
+- Guava
+- Guava & Orange
+- Guava Nova
+- Hawaiian Pineapple
+- Hint of Mint
+- Killer Cacti
+- Lady in Red
+- Lemon Lime
+- Lemon Twist
+- Mango Mania
+- Mint Chocolate Chip
+- Mixed Berry Mint
+- Orange & Mint
+- Orange Crush
+- Orange Mango
+- Papaya Mya
+- Peach Breeze
+- Pomegranate Blueberry
+- Raspberry Guava
+- Raspberry Romance
+- Sex with an Ex
+- Strawberry Passion
+- Turkish Coffee
+- Watermelon & Mint
+- Watermelon Craze
+- Wildberry
+
+
+### Organco
+
+- Azure
+- Clover
+- Eden
+- Emerald
+- Gaia
+- Haven
+- Ivy
+- Jewel
+- Lotus
+- Luna
+- Midori
+- Sapphire
+- Sierra
+- Skye
+- Star
+- Summer
+- Terra
+- Vida
+- Winter
+
+
+### Other
+
+- Lebanese Bombshell
+- Pomegranate
+- Zephyr
